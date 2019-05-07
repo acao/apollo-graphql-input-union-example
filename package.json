@@ -1,0 +1,17 @@
+{
+  "name": "input-union-example",
+  "version": "0.0.1",
+  "description": "An example of the GraphQL inputUnion feature",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.4.8",
+    "express": "^4.16.4"
+  },
+  "resolutions": {
+    "graphql": "./graphql-with-inputunion"
+  }
+}
