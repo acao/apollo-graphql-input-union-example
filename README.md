@@ -36,4 +36,6 @@ the schema explorer won't work in playground
 
 ## explanation
 
-Because of how the graphql-js project builds, there really wasnt a way to automatically install the `inputUnion` fork and build it without writing a script
+Because of how the graphql-js project builds, there really wasnt a way to automatically install the `inputUnion` fork and build it without writing a script, so i just committed it to the repo :/.
+
+Its based on 0.12.3, and the original proposal with `__inputname` while the spec is discussed
